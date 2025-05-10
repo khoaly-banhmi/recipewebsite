@@ -7,3 +7,4 @@ The goals for this projects are:
 - Set up boilerplates for HTML files
 - Use links within the website and to outside webs with good practice in mind
 - Insert images and remember to add alt texts
+- Use git commit message appropriately
